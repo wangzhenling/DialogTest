@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DialogTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_exit">退出</string>
+    <string name="btn_status">选择状态</string>
+    <string name="btn_interest">你的爱好</string>
+    <string name="btn_choosefriend">选择好友</string>
+
+</resources>
